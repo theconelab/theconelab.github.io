@@ -9,7 +9,7 @@
   behavioral, computational, and brain imaging methods (like EEG, fNIRS, and fMRI) to study the cognitive and neural systems that represent 
   linguistic knowledge in people who speak one, two, or many languages.
 
-### Projects
+### Collaboration
 - [**Allô Alphabet**](https://sites.google.com/view/allo-literacy/) - Phone-based literacy intervention in rural Côte d'Ivoire
 - [**Team MCPA**](http://teammcpa.github.io/) - Multivariate pattern analysis of adult and infant fNIRS data
 - [**SPIN Scorcerer**](http://spin-scorcerer.github.io/) - Automated text processing tool for detailed scoring of speech-in-noise transcriptions
