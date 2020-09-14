@@ -3,7 +3,7 @@
 ## Lab Members
 
 ### Benjamin Zinszer
-<img align="left" src="images/ben_penny.jpg" alt="photograph of Benjamin Zinszer and his dog Penny" style="margin: 5px 15px 5px 0px; width:250px;">
+<img align="left" src="https://avatars0.githubusercontent.com/u/14100363" alt="photograph of Benjamin Zinszer and his dog Penny" style="margin: 5px 15px 5px 0px; width:250px;">
 Benjamin Zinszer is a Visiting Assistant Professor in the Psychology Department at Swarthmore College. He received his PhD in Psychology at Penn State University,
 studying the effects of cross-language interaction in Chinese-English bilinguals. His current work explores linguistic categories, neural semantic representations,
 and language development in both monolingual and bilingual learners. His personal website is <a href='http://benjaminz.com'>benjaminz.com</a>.
