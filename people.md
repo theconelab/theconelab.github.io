@@ -1,4 +1,4 @@
-[\[Home\]](index.html)
+[\[Home\]](index.html) | [\[People\]](people.html)
 
 ## Lab Members
   
