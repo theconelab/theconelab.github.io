@@ -16,10 +16,3 @@ playing video games, and eating Korean fried chicken.
 <p style='clear:both;'></p>
 
 ---
-
-## Collaboration
-[**Team MCPA**](http://teammcpa.github.io/) - Multivariate pattern analysis of adult and infant fNIRS data
-
-[**Allô Alphabet**](https://sites.udel.edu/boldlab/current-projects/) - Phone-based literacy intervention in rural Côte d'Ivoire
-
-[**SPIN Scorcerer**](http://spin-scorcerer.github.io/) - Automated text processing tool for detailed scoring of speech-in-noise transcriptions
