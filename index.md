@@ -1,4 +1,4 @@
-[\[Home\]](index.html) | [\[People\]](people.html)
+[\[Home\]](index.html) | [\[People\]](people.html) | [\[What We Do\]](research.html)
 
 ### Who We Are & What We Do
 <img align="left" src="https://avatars2.githubusercontent.com/u/68130892" alt="A cute squirrel with pine cone" style="margin: 5px 15px 5px 0px; width:250px;">
