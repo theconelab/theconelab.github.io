@@ -1,4 +1,4 @@
-[\[Home\]](index.html) [\[What We Do\]](research.html)
+[\[Home\]](index.html) | [\[People\]](people.html) | [\[What We Do\]](research.html)
 
 ### What do we study in CONE LAB?
 <img align="left" src="./images/arrival.jpg" alt="Scene from the film Arrival, depicting scientist holding a sign that says 'HUMAN'" style="margin: 5px 15px 5px 0px; width:250px;">
@@ -8,6 +8,9 @@
   these languages organize the world. Our work includes all kinds of language learners, from babies to adults, and many levels of proficiency. We use 
   behavioral, computational, and brain imaging methods (like EEG, fNIRS, and fMRI) to study the cognitive and neural systems that represent 
   linguistic knowledge in people who speak one, two, or many languages.
+
+### Research Areas
+**Statistical Learning** - Statistical learning is a mechanism for finding patterns (or "causal structures") in the environment, such as the order in which certain events occur (like what syllables go together in speech) or the links between sounds and images (like the names of objects). This mechanism is available from infancy, and probably supports some of babies' first discoveries about language. However, statistical learning is also active throughout childhood and adulthood. We are interested in how this ability to find patterns helps children learn how to read, how differences in this ability contribute to different outcomes in literacy, and whether statistical learning experiments do a good job of representing the different ways children learn to read in different educational contexts. One of those contexts is bilingulism, where children or adults know two different languages (and thus, two different patterns). We explore how statistical learning mechanisms can be applied when two artificial languages provide different, competing patterns. These studies investigate how a simple learning mechanism like SL might contribute to the very complicated inferences that learners (infants, children, and adults) make as they navigate between languages.
 
 ### Collaboration
 [**Team MCPA**](http://teammcpa.github.io/) - Multivariate pattern analysis of adult and infant fNIRS data
