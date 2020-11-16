@@ -2,12 +2,7 @@
 
 ### What do we study in CONE LAB?
 <img align="left" src="./images/arrival.jpg" alt="Scene from the film Arrival, depicting scientist holding a sign that says 'HUMAN'" style="margin: 5px 15px 5px 0px; width:250px;">
-  In the CONE LAB we study how human brains learn language, represent linguistic information, and are shaped by our different learning experiences. 
-  We're especially interested in the solutions that learners find when provided conflicting information about categories. A very common example of 
-  this experience is bilingualism, where people learn not only two languages' worth of information, but they also manage conflicts in the ways that 
-  these languages organize the world. Our work includes all kinds of language learners, from babies to adults, and many levels of proficiency. We use 
-  behavioral, computational, and brain imaging methods (like EEG, fNIRS, and fMRI) to study the cognitive and neural systems that represent 
-  linguistic knowledge in people who speak one, two, or many languages.
+Our research in the CONE LAB is motivated by a love of languages, of learning languages, and of learning about how people learn languages! We work to understand people as biological and cultural participants in communication. And those people have brains and experiences that shape the languages they use, and are sometimes shaped by the languages, as well. Our past research has included speakers of English, Chinese, Spanish, French, and Attié, as well as bilingual speakers of these languages, adults, children, and babies! We're especially interested in the kinds of solutions that learners come up with when provided conflicting information about world through their different languages. We also work with artificial languages that allow us to carefully control the learning challenges we create for our participants, and computational models that allow us to carefully control the abilities and experiences of simulated learners. We also combine these behavioral and computational approaches with brain imaging technologies like EEG, fNIRS, and fMRI to study the biological aspects of language learning and use. Many of the datasets we collect and tools we develop are shared openly. Please see recent publications for links to those resources.
 
 ### Research Areas
 
