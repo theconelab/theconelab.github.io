@@ -17,7 +17,7 @@ playing video games, and eating Korean fried chicken.
 
 ### Gaby Ma
 <div style="clear:both;">
-<img align="left" src="images/gaby.jpg" alt="photograph of Gaby Ma in front of white wall" style="margin: 5px 15px 5px 0px; width:200px;">Gaby Ma is currently a sophomore ('23) from California. She is a psychology major and part of the Swarthmore swim team. In her free time, she enjoys spending time with family and friends, hiking with her dog, and cooking.
+<img align="left" src="images/gaby.png" alt="photograph of Gaby Ma in front of white wall" style="margin: 5px 15px 5px 0px; width:200px;">Gaby Ma is currently a sophomore ('23) from California. She is a psychology major and part of the Swarthmore swim team. In her free time, she enjoys spending time with family and friends, hiking with her dog, and cooking.
 </div>
 
 <p style='clear:both;'></p>
