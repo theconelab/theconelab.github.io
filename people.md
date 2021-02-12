@@ -15,6 +15,13 @@ playing video games, and eating Korean fried chicken.
 
 <p style='clear:both;'></p>
 
+### Rebecca Flack
+<div style="clear:both;">
+<img align="left" src="images/rebecca.png" alt="photograph of Rebecca Flack in front of a black wall" style="margin: 5px 15px 5px 0px; width:200px;">Rebecca Flack is a Chinese Major, Global Studies Minor, and pre-med student in the class of 2023. After graduating she hopes to pursue a career in global medicine. In addition, Rebecca enjoys taking dance classes, giving campus tours to prospective students, running with her dogs, reading fantasy novels, and listening to podcasts. 
+</div>
+
+<p style='clear:both;'></p>
+
 ### Gaby Ma
 <div style="clear:both;">
 <img align="left" src="images/gaby.png" alt="photograph of Gaby Ma in front of white wall" style="margin: 5px 15px 5px 0px; width:200px;">Gaby Ma is currently a sophomore ('23) from California. She is a psychology major and part of the Swarthmore swim team. In her free time, she enjoys spending time with family and friends, hiking with her dog, and cooking.
