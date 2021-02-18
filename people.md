@@ -36,4 +36,11 @@ playing video games, and eating Korean fried chicken.
 
 <p style='clear:both;'></p>
 
+### Ping Wen
+<div style="clear:both;">
+<img align="left" src="images/wendy.jpg" alt="photograph of Ping Wen or Wendy in front of a white wall" style="margin: 5px 15px 5px 0px; width:200px;">Wendy (Ping Wen) is an intended Cognitive Science and Math double major at Haverford College ('23). She lived in Beijing the longest, but she enjoys traveling and has resided in many areas around the globe. Moreover, she is in love with progressive rock, dogs and wolves, colors and harmonies, and learning about people's value systems, cognitive styles, and personalities.
+</div>
+
+<p style='clear:both;'></p>
+
 ---
