@@ -7,9 +7,7 @@
 
 <p style='clear:both;'></p>
 
-| | | |
-|--|--|--|
-| Jino Chough <img align="left" src="images/jino.jpg" alt="photograph of Jino Chough and orchids" style="margin: 5px 15px 5px 0px; width:200px;"> | Rebecca Flack <img align="left" src="images/rebecca.png" alt="photograph of Rebecca Flack in front of a black wall" style="margin: 5px 15px 5px 0px; width:200px;"> | Gaby Ma <img align="left" src="images/gaby.png" alt="photograph of Gaby Ma in front of white wall" style="margin: 5px 15px 5px 0px; width:200px;"> |
+| ### Jino Chough <img align="left" src="images/jino.jpg" alt="photograph of Jino Chough and orchids" style="margin: 5px 15px 5px 0px; width:200px;"> | ### Rebecca Flack <img align="left" src="images/rebecca.png" alt="photograph of Rebecca Flack in front of a black wall" style="margin: 5px 15px 5px 0px; width:200px;"> | ### Gaby Ma <img align="left" src="images/gaby.png" alt="photograph of Gaby Ma in front of white wall" style="margin: 5px 15px 5px 0px; width:200px;"> |
 
 
 
