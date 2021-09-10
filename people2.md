@@ -7,7 +7,8 @@
 
 <p style='clear:both;'></p>
 
-| ### Jino Chough <img align="left" src="images/jino.jpg" alt="photograph of Jino Chough and orchids" style="margin: 5px 15px 5px 0px; width:200px;"> | ### Rebecca Flack <img align="left" src="images/rebecca.png" alt="photograph of Rebecca Flack in front of a black wall" style="margin: 5px 15px 5px 0px; width:200px;"> | ### Gaby Ma <img align="left" src="images/gaby.png" alt="photograph of Gaby Ma in front of white wall" style="margin: 5px 15px 5px 0px; width:200px;"> |
+| <img align="left" src="images/jino.jpg" alt="photograph of Jino Chough and orchids" style="margin: 5px 15px 5px 0px; width:200px;"> <details>
+  <summary>Jino Chough</summary>Jino Chough is a neuroscience major, English literature minor at Swarthmore College, class of 2022. He is interested in psychology and physics, and enjoys reading, playing video games, and eating Korean fried chicken.</details> | ### Rebecca Flack <img align="left" src="images/rebecca.png" alt="photograph of Rebecca Flack in front of a black wall" style="margin: 5px 15px 5px 0px; width:200px;"> | ### Gaby Ma <img align="left" src="images/gaby.png" alt="photograph of Gaby Ma in front of white wall" style="margin: 5px 15px 5px 0px; width:200px;"> |
 
 
 
