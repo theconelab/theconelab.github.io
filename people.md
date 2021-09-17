@@ -1,7 +1,7 @@
 [\[Home\]](index.html) | [\[People\]](people.html) | [\[What We Do\]](research.html)
 
 ## Lab Members
-<img align="left" src="/images/eeg_training_summer2021.png" alt="CONE LAB students measuring each other's heads for E.E.G. training in Summer 2021" style="margin: 5px 15px 5px 0px; width:400px;">
+<img align="right" src="/images/eeg_training_summer2021.png" alt="CONE LAB students measuring each other's heads for E.E.G. training in Summer 2021" style="margin: 5px 15px 5px 0px; width:400px;">
 
 ### Lab director
 [Benjamin Zinszer](#Benjamin-Zinszer)
