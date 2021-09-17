@@ -2,10 +2,13 @@
 
 ## Lab Members
 <img align="left" src="/images/eeg_training_summer2021.png" alt="CONE LAB students measuring each other's heads for E.E.G. training in Summer 2021" style="margin: 5px 15px 5px 0px; width:250px;">
+
 ### Lab director
 [Benjamin Zinszer](#Benjamin-Zinszer)
+
 ### Senior thesis researchers
 - [Jino Chough](#Jino-Chough)
+
 ### Student researchers
 - [Rebecca Flack](#Rebecca-Flack)
 - [Gaby Ma](#Gaby-Ma)
