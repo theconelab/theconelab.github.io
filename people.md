@@ -10,11 +10,21 @@
 [Jino Chough](#jino-chough)
 
 ### Student researchers
-- [Rebecca Flack](#rebecca-flack)
-- [Gaby Ma](#gaby-ma)
-- [Selena She](#selena-she)
-- [Ping Wen](#ping-wen)
-  
+[Rebecca Flack](#rebecca-flack)&nbsp;| 
+[Gaby Ma](#gaby-ma)&nbsp;| 
+[Selena She](#selena-she)&nbsp;| 
+[Ping Wen](#ping-wen)
+
+### Collaborating labs
+[Bayet Lab @ American Univ.](https://www.bayetlab.com/)&nbsp;| 
+[BOLD Lab @ Univ. Toronto](https://www.oise.utoronto.ca/boldlab/)&nbsp;| 
+[Emberson Lab @ Univ. British Columbia](https://embersonlab.com)&nbsp;| 
+[ERP Lab @ Swarthmore](https://www.swarthmore.edu/erp-lab)&nbsp;| 
+[LLAMB Lab @ Haskins Laboratories](https://haskinslabs.org/research-centers/language-learning-and-multisensory-brain-llamb-lab)&nbsp;| 
+[Llanos Lab @ UT-Austin](http://www.fernandollanos.net/)&nbsp;| 
+State Key Laboratory for Cognitive Neuroscience and Learning @ Beijing Normal Univ.&nbsp;| 
+[Q&nbsp;Lab @ Northeastern Univ.](https://qlab.sites.northeastern.edu)
+
 ---
 
 ### Benjamin Zinszer
