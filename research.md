@@ -25,5 +25,6 @@ Our research in the CONE LAB is motivated by a love of languages, of learning la
 ### Contact
 Benjamin Zinszer (bzinszer@swarthmore.edu)
 
-#### Licensing, Copyright, and Copyleft
-Unless otherwise noted, software available on this page is provided under the [GNU General Public License v2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html). The GNU GPL is the most widely used free software license and has a strong copyleft requirement. When distributing derived works, the source code of the work must be made available under the same license. Redistribution of this code must also include (1) a copy of the enclosed license and copyright notice, (2) state what changes, if any, have been made to the code, (3) provide attribution to the authors of the code, in this case Benjamin Zinszer and the CONE LAB, and (4) remain under the same GNU GPL v2.0 license.
+#### Licensing, Copyright, Copyleft
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="margin: 5px 15px 5px 0px; border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
