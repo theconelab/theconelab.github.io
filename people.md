@@ -10,6 +10,7 @@
 [Jino Chough](#jino-chough)
 
 ### Student researchers
+[David Akinsooto](#david-akinsooto)&nbsp;|
 [Rebecca Flack](#rebecca-flack)&nbsp;| 
 [Gaby Ma](#gaby-ma)&nbsp;| 
 [Selena She](#selena-she)&nbsp;| 
@@ -27,8 +28,9 @@ State Key Laboratory for Cognitive Neuroscience and Learning @ Beijing Normal Un
 
 ---
 
-### Benjamin Zinszer
-<img align="left" src="https://avatars0.githubusercontent.com/u/14100363" alt="photograph of Benjamin Zinszer and his dog Penny" style="margin: 5px 15px 5px 0px; width:200px;">Benjamin Zinszer is a Visiting Assistant Professor in the Psychology Department at Swarthmore College and director of the CONE LAB. He earned his PhD in Psychology at Penn State University, studying the effects of cross-language interaction in Chinese-English bilinguals. His current work explores linguistic categories, neural semantic representations, and language development in both monolingual and bilingual learners. His personal website is <a href='http://benjaminz.com'>benjaminz.com</a>
+### David Akinsooto
+<img align="left" src="images/david.jpg" alt="photograph of David Akinsooto in front of window and a decorated tree" style="margin: 5px 15px 5px 0px; width:200px;">David Akinsooto is a Neuroscience and Economics double major in the Class of 2023 from Pittstown, New Jersey. He is a Premed student on the Swarthmore Mens lacrosse team. David loves to read in his free time, relax with friends and family, and exercising.
+</div>
 
 <p style='clear:both;'></p>
 
@@ -65,6 +67,11 @@ playing video games, and eating Korean fried chicken.
 <div style="clear:both;">
 <img align="left" src="images/wendy.jpg" alt="photograph of Ping Wen or Wendy in front of a white wall" style="margin: 5px 15px 5px 0px; width:200px;">Wendy (Ping Wen) is an intended Cognitive Science and Math double major at Haverford College ('23). She lived in Beijing the longest, but she enjoys traveling and has resided in many areas around the globe. Moreover, she is in love with progressive rock, dogs and wolves, colors and harmonies, and learning about people's value systems, cognitive styles, and personalities.
 </div>
+
+<p style='clear:both;'></p>
+
+### Benjamin Zinszer
+<img align="left" src="https://avatars0.githubusercontent.com/u/14100363" alt="photograph of Benjamin Zinszer and his dog Penny" style="margin: 5px 15px 5px 0px; width:200px;">Benjamin Zinszer is a Visiting Assistant Professor in the Psychology Department at Swarthmore College and director of the CONE LAB. He earned his PhD in Psychology at Penn State University, studying the effects of cross-language interaction in Chinese-English bilinguals. His current work explores linguistic categories, neural semantic representations, and language development in both monolingual and bilingual learners. His personal website is <a href='http://benjaminz.com'>benjaminz.com</a>
 
 <p style='clear:both;'></p>
 
