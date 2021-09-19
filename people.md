@@ -10,11 +10,11 @@
 [Jino Chough](#jino-chough)
 
 ### Student researchers
-[David Akinsooto](#david-akinsooto)&nbsp;|
-[Rebecca Flack](#rebecca-flack)&nbsp;| 
-[Gaby Ma](#gaby-ma)&nbsp;| 
-[Selena She](#selena-she)&nbsp;| 
-[Ping Wen](#ping-wen)
+[David&nbsp;Akinsooto](#david-akinsooto)&nbsp;|
+[Rebecca&nbsp;Flack](#rebecca-flack)&nbsp;| 
+[Gaby&nbsp;Ma](#gaby-ma)&nbsp;| 
+[Selena&nbsp;She](#selena-she)&nbsp;| 
+[Ping&nbsp;Wen](#ping-wen)
 
 ### Collaborating labs
 [Bayet Lab @ American Univ.](https://www.bayetlab.com/)&nbsp;| 
@@ -26,6 +26,8 @@
 State Key Laboratory for Cognitive Neuroscience and Learning @ Beijing Normal Univ.&nbsp;| 
 [Q&nbsp;Lab @ Northeastern Univ.](https://qlab.sites.northeastern.edu)
 
+---
+<img align="center" src="images/chipmunk_run_round_sq.png" alt="photograph of a chipmunk running along a stone wall" style="margin: 5px 15px 5px 15px; width:100%;">
 ---
 
 ### David Akinsooto
