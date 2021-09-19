@@ -27,11 +27,12 @@ State Key Laboratory for Cognitive Neuroscience and Learning @ Beijing Normal Un
 [Q&nbsp;Lab @ Northeastern Univ.](https://qlab.sites.northeastern.edu)
 
 ---
-<img align="center" src="images/chipmunk_run_round_sq.png" alt="photograph of a chipmunk running along a stone wall" style="margin: 5px 15px 5px 15px; width:100%;">
+<img align="center" src="images/chipmunk_run_round_sq.png" alt="photograph of a chipmunk running along a stone wall" style="margin: 5px 5px 5px 5px; width:100%;">
 
 ---
 
 ### David Akinsooto
+<div style="clear:both;">
 <img align="left" src="images/david.png" alt="photograph of David Akinsooto in front of window and a decorated tree" style="margin: 5px 15px 5px 0px; width:200px;">David Akinsooto is a Neuroscience and Economics double major in the Class of 2023 from Pittstown, New Jersey. He is a Premed student on the Swarthmore Mens lacrosse team. David loves to read in his free time, relax with friends and family, and exercising.
 </div>
 
