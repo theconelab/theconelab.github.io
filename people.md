@@ -11,6 +11,7 @@
 
 ### Student researchers
 [David&nbsp;Akinsooto](#david-akinsooto)&nbsp;|
+[Jonah&nbsp;Covitz](#jonah-covitz)&nbsp;|
 [Rebecca&nbsp;Flack](#rebecca-flack)&nbsp;| 
 [Gaby&nbsp;Ma](#gaby-ma)&nbsp;| 
 [Selena&nbsp;She](#selena-she)&nbsp;| 
@@ -42,6 +43,13 @@ State Key Laboratory for Cognitive Neuroscience and Learning @ Beijing Normal Un
 <div style="clear:both;">
 <img align="left" src="images/jino.jpg" alt="photograph of Jino Chough and orchids" style="margin: 5px 15px 5px 0px; width:200px;">Jino Chough is a neuroscience major, English literature minor at Swarthmore College, class of 2022.  He is interested in psychology and physics, and enjoys reading,
 playing video games, and eating Korean fried chicken. 
+</div>
+
+<p style='clear:both;'></p>
+
+### Jonah Covitz
+<div style="clear:both;">
+Jonah Covitz is a Psychology and Economics double major in the class of 2022.  He is interested in decision science and how to apply cognitive neuroscience of language approaches to this field.  Jonah is a long jumper on the men's track and field team and plays saxophone in the school jazz ensemble.
 </div>
 
 <p style='clear:both;'></p>
