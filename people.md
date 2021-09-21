@@ -4,7 +4,9 @@
 <img align="right" src="/images/eeg_training_summer2021.png" alt="CONE LAB students measuring each other's heads for E.E.G. training in Summer 2021" style="margin: 5px 15px 5px 0px; width:50%;">
 
 ### Lab director
-[Benjamin Zinszer](#benjamin-zinszer)
+[Benjamin Zinszer](#benjamin-zinszer)</br>
+Visiting Assistant Professor in Psychology</br>
+Swarthmore College
 
 ### Senior thesis researchers
 [Jino Chough](#jino-chough)
@@ -16,6 +18,7 @@
 [Gaby&nbsp;Ma](#gaby-ma)&nbsp;| 
 [Selena&nbsp;She](#selena-she)&nbsp;| 
 [Ping&nbsp;Wen](#ping-wen)
+
 
 ### Collaborating labs
 [Bayet Lab @ American Univ.](https://www.bayetlab.com/)&nbsp;| 
@@ -49,7 +52,7 @@ playing video games, and eating Korean fried chicken.
 
 ### Jonah Covitz
 <div style="clear:both;">
-Jonah Covitz is a Psychology and Economics double major in the class of 2022.  He is interested in decision science and how to apply cognitive neuroscience of language approaches to this field.  Jonah is a long jumper on the men's track and field team and plays saxophone in the school jazz ensemble.
+<img align="left" src="images/jonah.png" alt="photograph of Jonah Covitz riding a bicycle in front of the Golden Gate bridge" style="margin: 5px 15px 5px 0px; width:200px;">Jonah Covitz is a Psychology and Economics double major in the class of 2022.  He is interested in decision science and how to apply cognitive neuroscience of language approaches to this field.  Jonah is a long jumper on the men's track and field team and plays saxophone in the school jazz ensemble.
 </div>
 
 <p style='clear:both;'></p>
