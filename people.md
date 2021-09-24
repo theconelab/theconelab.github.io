@@ -17,7 +17,8 @@ Swarthmore College
 [Rebecca&nbsp;Flack](#rebecca-flack)&nbsp;| 
 [Gaby&nbsp;Ma](#gaby-ma)&nbsp;| 
 [Selena&nbsp;She](#selena-she)&nbsp;| 
-[Ping&nbsp;Wen](#ping-wen)
+[Ping&nbsp;Wen](#ping-wen)&nbsp;| 
+[Christopher&nbsp;Haochen&nbsp;Zhao](#christopher-haochen-zhao)
 
 
 ### Collaborating labs
@@ -81,6 +82,13 @@ playing video games, and eating Korean fried chicken.
 ### Ping Wen
 <div style="clear:both;">
 <img align="left" src="images/wendy.jpg" alt="photograph of Ping Wen or Wendy in front of a white wall" style="margin: 5px 15px 5px 0px; width:200px;">Wendy (Ping Wen) is an intended Cognitive Science and Math double major at Haverford College ('23). She lived in Beijing the longest, but she enjoys traveling and has resided in many areas around the globe. Moreover, she is in love with progressive rock, dogs and wolves, colors and harmonies, and learning about people's value systems, cognitive styles, and personalities.
+</div>
+
+<p style='clear:both;'></p>
+
+### Christopher Haochen Zhao
+<div style="clear:both;">
+<img align="left" src="images/chris.jpg" alt="photograph of Chris standing in front of a tree and building" style="margin: 5px 15px 5px 0px; width:200px;">Christopher Haochen Zhao is a prospective Psychology and Economics major sophomore at Swarthmore College. Originally from Beijing, China, he now mostly lives in Boston, MA. He is interested in discovering the psychological aspect of language processing. He is also a member of Swarthmore's mock trial team. In his free time, Chris enjoys studying Spanish, discovering good music, and playing soccer and hockey with friends.
 </div>
 
 <p style='clear:both;'></p>
