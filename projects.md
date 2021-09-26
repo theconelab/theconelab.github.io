@@ -26,7 +26,7 @@ Can word-embedding models that learn by processing millions or billions of websi
 
 ### Are basic sequence learning abilities related to success in language learning?
   
-<img align="left" src="./images/arrival.jpg" alt="An illustration of computer translation" style="margin: 5px 15px 5px 0px; width:250px;">
+<img align="left" src="./images/VSL_tablet_screen.png" alt="A screenshot from a child's computer game depicting a space alien and bus driver standing outside of a bus." style="margin: 5px 15px 5px 0px; width:250px;">
 Get summary from Jino, and integrate the Ivorian work
 
 **Recent presentations:** [Jino Chough's poster at Sigma Xi](chough_sigmaxi_2021.pdf)
