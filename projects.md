@@ -2,7 +2,9 @@
 
 ## Participating in Research
 
-If you're interested in participating in future research projects, please fill out [a short background form](https://forms.gle/xZ319cWiwZgzrk2D7) so we can contact you about a related study when available. Studies in our lab are reviewed by [Swarthmore College Institutional Review Board](https://www.swarthmore.edu/institutional-review-board) to protect the rights, welfare, and privacy of individuals participating as subjects in research.
+If you're interested in participating in future studies, please fill out [a short background form](https://forms.gle/xZ319cWiwZgzrk2D7) so we can contact you when a related study opens. 
+
+Studies in our lab are reviewed by [Swarthmore College Institutional Review Board](https://www.swarthmore.edu/institutional-review-board) to protect the rights, welfare, and privacy of individuals participating as subjects in research.
 
 ---
 
@@ -27,7 +29,7 @@ Can word-embedding models that learn by processing millions or billions of websi
 ### Are basic sequence learning abilities related to success in language learning?
   
 <img align="left" src="./images/VSL_tablet_screen.png" alt="A screenshot from a child's computer game depicting a space alien and bus driver standing outside of a bus." style="margin: 5px 15px 5px 0px; width:250px;">
-Get summary from Jino, and integrate the Ivorian work
+Jino's summary
 
 **Recent presentations:** [Jino Chough's poster at Sigma Xi](chough_sigmaxi_2021.pdf)
 
