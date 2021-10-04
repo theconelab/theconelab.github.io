@@ -14,7 +14,7 @@ Swarthmore College
 ### Student researchers
 [David&nbsp;Akinsooto](#david-akinsooto)&nbsp;|
 [Jonah&nbsp;Covitz](#jonah-covitz)&nbsp;|
-[John&nbsp;P.&nbsp;Duarte](#john-p.-duarte);|
+[John&nbsp;P.&nbsp;Duarte](#john-p-duarte)&nbsp;|
 [Rebecca&nbsp;Flack](#rebecca-flack)&nbsp;| 
 [Gaby&nbsp;Ma](#gaby-ma)&nbsp;| 
 [Selena&nbsp;She](#selena-she)&nbsp;| 
