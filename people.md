@@ -14,6 +14,7 @@ Swarthmore College
 ### Student researchers
 [David&nbsp;Akinsooto](#david-akinsooto)&nbsp;|
 [Jonah&nbsp;Covitz](#jonah-covitz)&nbsp;|
+[John&nbsp;P.&nbsp;Duarte](#john-p.-duarte);|
 [Rebecca&nbsp;Flack](#rebecca-flack)&nbsp;| 
 [Gaby&nbsp;Ma](#gaby-ma)&nbsp;| 
 [Selena&nbsp;She](#selena-she)&nbsp;| 
@@ -54,6 +55,13 @@ playing video games, and eating Korean fried chicken.
 ### Jonah Covitz
 <div style="clear:both;">
 <img align="left" src="images/jonah.png" alt="photograph of Jonah Covitz riding a bicycle in front of the Golden Gate bridge" style="margin: 5px 15px 5px 0px; width:200px;">Jonah Covitz is a Psychology and Economics double major in the class of 2022.  He is interested in decision science and how to apply cognitive neuroscience of language approaches to this field.  Jonah is a long jumper on the men's track and field team and plays saxophone in the school jazz ensemble.
+</div>
+
+<p style='clear:both;'></p>
+
+### John P. Duarte
+<div style="clear:both;">
+<img align="left" src="images/john.png" alt="photograph of John Duarte holding a tray of cookies, fresh from the oven" style="margin: 5px 15px 5px 0px; width:200px;">John Duarte is a Psychology major in the class of 2023, and he is interested in statistical learning and language acquisition. John is a foilist on the Swarthmore Club Fencing Team, an active member of Swarthmore's Psi Phi (Not a Frat) club, and enjoyer of LARP. He enjoys board games, hiking, musical theater, and creative writing.
 </div>
 
 <p style='clear:both;'></p>
