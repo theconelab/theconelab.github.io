@@ -14,7 +14,7 @@ Studies in our lab are reviewed by [Swarthmore College Institutional Review Boar
 <img align="left" src="./images/seats.png" alt="Two chairs and a couch, or maybe it's two couches and a chair?" style="margin: 5px 15px 5px 0px; width:250px;">
 Have you ever noticed that certain objects have many different names? And there is usually one name that just seems more fitting for that object? In this study, we are looking into this phenomenon to better understand how object-categorization varies within and between languages. We ask participants to name objects and rate how well they fit in different categories. We have found that these ratings depend on how people name the objects, suggesting that having a label like "cup" or "chair" for an object shapes our judgements about the object itself.
 
-**Recent presentations:** [Gaby Ma's poster at Sigma Xi](ma_sigmaxi_2021.pdf)
+**Recent presentations:** [Gaby Ma's poster at Sigma Xi](pubs/ma_sigmaxi_2021.pdf)
 
 <p style="clear:both;"></p>
 
@@ -22,7 +22,7 @@ Have you ever noticed that certain objects have many different names? And there 
 <img align="left" src="./images/arrival.jpg" alt="An illustration of computer translation" style="margin: 5px 15px 5px 0px; width:250px;">
 Can word-embedding models that learn by processing millions or billions of websites and articles predict how humans perceive the connection between two words? We created many pairs of words (ex. table vs. chair, bag vs. boot) and asked our monolingual & bilingual participants to rate how similar they are. Then, we compared AI-generated ratings to our human data. We found that even though English monolingual and Chinese-English bilinguals correlate differently with our model, these algorithms still may not capture the more nuanced differences between our two groups.
 
-**Recent presentations:** [Selena She's poster at KINSC Symposium](she_kinsc_2021.pdf), [Wendy Wen's poster at KINSC Symposium](wen_kinsc_2021.pdf)
+**Recent presentations:** [Selena She's poster at KINSC Symposium](pubs/she_kinsc_2021.pdf), [Wendy Wen's poster at KINSC Symposium](pubs/wen_kinsc_2021.pdf)
 
 <p style="clear:both;"></p>
 
@@ -31,7 +31,7 @@ Can word-embedding models that learn by processing millions or billions of websi
 <img align="left" src="./images/VSL_tablet_screen.png" alt="A screenshot from a child's computer game depicting a space alien and bus driver standing outside of a bus." style="margin: 5px 15px 5px 0px; width:250px;">
 Jino's summary
 
-**Recent presentations:** [Jino Chough's poster at Sigma Xi](chough_sigmaxi_2021.pdf)
+**Recent presentations:** [Jino Chough's poster at Sigma Xi](pubs/chough_sigmaxi_2021.pdf)
 
 **Recent publications:** [Zinszer et al., 2020, AfricArXiv](https://osf.io/preprints/africarxiv/q8k5w/)
 
