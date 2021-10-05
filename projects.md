@@ -11,7 +11,7 @@ Studies in our lab are reviewed by [Swarthmore College Institutional Review Boar
 ## Current and Recent Projects
 
 ### How do words shape our judgments about objects?
-<img align="left" src="./images/arrival.jpg" alt="A weird chair, or maybe its a couch?" style="margin: 5px 15px 5px 0px; width:250px;">
+<img align="left" src="./images/seats.png" alt="Two chairs and a couch, or maybe it's two couches and a chair?" style="margin: 5px 15px 5px 0px; width:250px;">
 Have you ever noticed that certain objects have many different names? And there is usually one name that just seems more fitting for that object? In this study, we are looking into this phenomenon to better understand how object-categorization varies within and between languages. We ask participants to name objects and rate how well they fit in different categories. We have found that these ratings depend on how people name the objects, suggesting that having a label like "cup" or "chair" for an object shapes our judgements about the object itself.
 
 **Recent presentations:** [Gaby Ma's poster at Sigma Xi](ma_sigmaxi_2021.pdf)
