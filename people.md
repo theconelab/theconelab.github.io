@@ -10,7 +10,7 @@ Swarthmore College
 
 ### Senior thesis researchers
 [David&nbsp;Akinsooto](#david-akinsooto)&nbsp;| 
-[Ricky&nbsp;WonJoon&nbsp;Choi](#ricky-wonjoon-choi)&nbsp;| 
+[Ricky&nbsp;WonJoon&nbsp;Choi](#ricky-wonjoon-choi-(he/him))&nbsp;| 
 [Mai&nbsp;Miura](#)&nbsp;| 
 [Selena&nbsp;She](#selena-she)&nbsp;| 
 [Elizabeth&nbsp;Rosenthal](#elizabeth-rosenthal)
