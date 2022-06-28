@@ -10,7 +10,7 @@ Swarthmore College
 
 ### Senior thesis researchers
 [David&nbsp;Akinsooto](#david-akinsooto)&nbsp;| 
-[Ricky&nbsp;WonJoon&nbsp;Choi](#ricky-wonjoon-choi-(he/him))&nbsp;| 
+[Ricky&nbsp;WonJoon&nbsp;Choi](#ricky-wonjoon-choi)&nbsp;| 
 [Mai&nbsp;Miura](#)&nbsp;| 
 [Selena&nbsp;She](#selena-she)&nbsp;| 
 [Elizabeth&nbsp;Rosenthal](#elizabeth-rosenthal)
@@ -48,9 +48,9 @@ State Key Laboratory for Cognitive Neuroscience and Learning @ Beijing Normal Un
 
 <p style='clear:both;'></p>
 
-### Ricky WonJoon Choi (he/him)
+### Ricky WonJoon Choi
 <div style="clear:both;">
-<img align="left" src="images/ricky.jpg" alt="photograph of Ricky Choi on a hillside in the forest" style="margin: 5px 15px 5px 0px; width:200px;">Ricky Choi is a Psychology and Political Science double major in the class of 2023. He is interested in causal reasoning, language acquisition, and the application of computational models to simulate and better understand those topics. After graduating, Ricky hopes to pursue a graduate degree in developmental psychology and continue investigating causal and language development. In his free time, he enjoys cooking and lounging with his two cats, Kyky and Kenma.
+<img align="left" src="images/ricky.jpg" alt="photograph of Ricky Choi on a hillside in the forest" style="margin: 5px 15px 5px 0px; width:200px;">Ricky Choi (he/him) is a Psychology and Political Science double major in the class of 2023. He is interested in causal reasoning, language acquisition, and the application of computational models to simulate and better understand those topics. After graduating, Ricky hopes to pursue a graduate degree in developmental psychology and continue investigating causal and language development. In his free time, he enjoys cooking and lounging with his two cats, Kyky and Kenma.
 </div>
 
 <p style='clear:both;'></p>
