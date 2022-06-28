@@ -9,18 +9,22 @@ Visiting Assistant Professor in Psychology<br>
 Swarthmore College
 
 ### Senior thesis researchers
-[Jino Chough](#jino-chough)
+[David&nbsp;Akinsooto](#david-akinsooto)&nbsp;| 
+[Ricky&nbsp;WonJoon&nbsp;Choi](#ricky-wonjoon-choi)&nbsp;| 
+[Mai&nbsp;Miura](#)&nbsp;| 
+[Selena&nbsp;She](#selena-she)&nbsp;| 
+[Elizabeth&nbsp;Rosenthal](#elizabeth-rosenthal)
 
 ### Student researchers
-[David&nbsp;Akinsooto](#david-akinsooto)&nbsp;|
-[Jonah&nbsp;Covitz](#jonah-covitz)&nbsp;|
-[John&nbsp;P.&nbsp;Duarte](#john-p-duarte)&nbsp;|
+[John&nbsp;P.&nbsp;Duarte](#john-p-duarte)&nbsp;| 
 [Rebecca&nbsp;Flack](#rebecca-flack)&nbsp;| 
 [Gaby&nbsp;Ma](#gaby-ma)&nbsp;| 
-[Selena&nbsp;She](#selena-she)&nbsp;| 
 [Ping&nbsp;Wen](#ping-wen)&nbsp;| 
 [Christopher&nbsp;Haochen&nbsp;Zhao](#christopher-haochen-zhao)
 
+### Lab Alumni
+[Jino&nbsp;Chough](#jino-chough)&nbsp;| 
+[Jonah&nbsp;Covitz](#jonah-covitz)
 
 ### Collaborating labs
 [Bayet Lab @ American Univ.](https://www.bayetlab.com/)&nbsp;| 
@@ -40,6 +44,13 @@ State Key Laboratory for Cognitive Neuroscience and Learning @ Beijing Normal Un
 ### David Akinsooto
 <div style="clear:both;">
 <img align="left" src="images/david.png" alt="photograph of David Akinsooto in front of window and a decorated tree" style="margin: 5px 15px 5px 0px; width:200px;">David Akinsooto is a Neuroscience and Economics double major in the Class of 2023 from Pittstown, New Jersey. He is a Premed student on the Swarthmore Mens lacrosse team. David loves to read in his free time, relax with friends and family, and exercising.
+</div>
+
+<p style='clear:both;'></p>
+
+### Ricky WonJoon Choi (he/him)
+<div style="clear:both;">
+<img align="left" src="images/ricky.jpg" alt="photograph of Ricky Choi on a hillside in the forest" style="margin: 5px 15px 5px 0px; width:200px;">Ricky Choi is a Psychology and Political Science double major in the class of 2023. He is interested in causal reasoning, language acquisition, and the application of computational models to simulate and better understand those topics. After graduating, Ricky hopes to pursue a graduate degree in developmental psychology and continue investigating causal and language development. In his free time, he enjoys cooking and lounging with his two cats, Kyky and Kenma.
 </div>
 
 <p style='clear:both;'></p>
@@ -79,6 +90,11 @@ playing video games, and eating Korean fried chicken.
 </div>
 
 <p style='clear:both;'></p>
+
+### Elizabeth Rosenthal
+<div style="clear:both;">
+<img align="left" src="images/elizabeth.jpg" alt="photograph of Elizabeth Rosenthal standing at a scenic overlook over the ocean" style="margin: 5px 15px 5px 0px; width:200px;">Elizabeth Rosenthal (’23) is a Psychology and Biology double major from New York City. She is especially interested in pediatric neuropsychology. In her free time, she enjoys reading mystery novels, baking, and playing violin. 
+</div>
 
 ### Selena She
 <div style="clear:both;">
