@@ -18,7 +18,7 @@ Swarthmore College
 ### Student researchers
 [John&nbsp;P.&nbsp;Duarte](#john-p-duarte)&nbsp;| 
 [Rebecca&nbsp;Flack](#rebecca-flack)&nbsp;| 
-[Kate&nbsp;Hart(#kate-hart)&nbsp;| 
+[Kate&nbsp;Hart](#kate-hart)&nbsp;| 
 [Gaby&nbsp;Ma](#gaby-ma)&nbsp;| 
 [Ping&nbsp;Wen](#ping-wen)&nbsp;| 
 [Christopher&nbsp;Haochen&nbsp;Zhao](#christopher-haochen-zhao)
