@@ -18,6 +18,7 @@ Swarthmore College
 ### Student researchers
 [John&nbsp;P.&nbsp;Duarte](#john-p-duarte)&nbsp;| 
 [Rebecca&nbsp;Flack](#rebecca-flack)&nbsp;| 
+[Kate&nbsp;Hart(#kate-hart)&nbsp;| 
 [Gaby&nbsp;Ma](#gaby-ma)&nbsp;| 
 [Ping&nbsp;Wen](#ping-wen)&nbsp;| 
 [Christopher&nbsp;Haochen&nbsp;Zhao](#christopher-haochen-zhao)
@@ -80,6 +81,13 @@ playing video games, and eating Korean fried chicken.
 ### Rebecca Flack
 <div style="clear:both;">
 <img align="left" src="images/rebecca.png" alt="photograph of Rebecca Flack in front of a black wall" style="margin: 5px 15px 5px 0px; width:200px;">Rebecca Flack is a Chinese Major, Global Studies Minor, and pre-med student in the class of 2023. After graduating she hopes to pursue a career in global medicine. In addition, Rebecca enjoys taking dance classes, giving campus tours to prospective students, running with her dogs, reading fantasy novels, and listening to podcasts. 
+</div>
+
+<p style='clear:both;'></p>
+
+### Kate Hart
+<div style="clear:both;">
+<img align="left" src="" alt="" style="margin: 5px 15px 5px 0px; width:200px;"> more information soon! 
 </div>
 
 <p style='clear:both;'></p>
