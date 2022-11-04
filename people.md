@@ -87,7 +87,7 @@ playing video games, and eating Korean fried chicken.
 
 ### Kate Hart
 <div style="clear:both;">
-<img align="left" src="" alt="" style="margin: 5px 15px 5px 0px; width:200px;"> more information soon! 
+<img align="left" src="images/kate.jpg" alt="photograph of Kate Hart near a tree with a village in the background" style="margin: 5px 15px 5px 0px; width:200px;"> Kate Hart is a Psychology major with a Cognitive Science minor in the class of 2023 from Pittsburgh, PA. She is specifically interested in psychopathology. Kate is also a part of the Swarthmore Softball team. In her free time, she enjoys spending time with friends, family, and her cat.
 </div>
 
 <p style='clear:both;'></p>
