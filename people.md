@@ -11,7 +11,7 @@ Swarthmore College
 ### Senior thesis researchers
 [David&nbsp;Akinsooto](#david-akinsooto)&nbsp;| 
 [Ricky&nbsp;WonJoon&nbsp;Choi](#ricky-wonjoon-choi)&nbsp;| 
-[Mai&nbsp;Miura](#)&nbsp;| 
+[Mai&nbsp;Miura](#mai-miura)&nbsp;| 
 [Selena&nbsp;She](#selena-she)&nbsp;| 
 [Elizabeth&nbsp;Rosenthal](#elizabeth-rosenthal)
 
@@ -95,6 +95,13 @@ playing video games, and eating Korean fried chicken.
 ### Gaby Ma
 <div style="clear:both;">
 <img align="left" src="images/gaby.png" alt="photograph of Gaby Ma in front of white wall" style="margin: 5px 15px 5px 0px; width:200px;">Gaby Ma is currently a sophomore ('23) from California. She is a psychology major and part of the Swarthmore swim team. In her free time, she enjoys spending time with family and friends, hiking with her dog, and cooking.
+</div>
+
+<p style='clear:both;'></p>
+
+### Mai Miura
+<div style="clear:both;">
+<img align="left" src="" alt="photograph or avatar for Mai" style="margin: 5px 15px 5px 0px; width:200px;">More information soon!
 </div>
 
 <p style='clear:both;'></p>
