@@ -101,7 +101,7 @@ playing video games, and eating Korean fried chicken.
 
 ### Mai Miura
 <div style="clear:both;">
-<img align="left" src="" alt="photograph or avatar for Mai" style="margin: 5px 15px 5px 0px; width:200px;">More information soon!
+<img align="left" src="" alt="photograph or avatar for Mai" style="margin: 5px 15px 5px 0px; width:200px;">Mai Miura is a December 2023 finisher majoring in Psychology and minoring in Gender and Sexuality Studies. She is from Tokyo, Japan and is interested in bilingual language processing. In her free time, Mai enjoys listening to music and playing volleyball.
 </div>
 
 <p style='clear:both;'></p>
