@@ -20,6 +20,7 @@ Swarthmore College
 [Rebecca&nbsp;Flack](#rebecca-flack)&nbsp;| 
 [Kate&nbsp;Hart](#kate-hart)&nbsp;| 
 [Gaby&nbsp;Ma](#gaby-ma)&nbsp;| 
+[Madeleine&nbsp;Wang](#madeleine-wang)&nbsp;| 
 [Ping&nbsp;Wen](#ping-wen)&nbsp;| 
 [Christopher&nbsp;Haochen&nbsp;Zhao](#christopher-haochen-zhao)
 
@@ -116,6 +117,13 @@ playing video games, and eating Korean fried chicken.
 ### Selena She
 <div style="clear:both;">
 <img align="left" src="images/selena.jpg" alt="photograph of Selena She on a hilltop above a city" style="margin: 5px 15px 5px 0px; width:200px;">Selena She is a prospective Math and Cognitive Science double major in the class of 2023. She's an international student from Shenzhen, China, and part of the Haverford cross country and track & field team. In her spare time, she likes hiking, filming, and riding roller coasters.
+</div>
+
+<p style='clear:both;'></p>
+
+### Madeleine Wang
+<div style="clear:both;">
+<img align="left" src="images/madeleine.jpg" alt="photograph of Madeleine" style="margin: 5px 15px 5px 0px; width:200px;">Madeleine Wang is a prospective Neuroscience and Statistics major in the class of 2026. Madeleine is from Long Island, New York, but has also lived in Ithaca, New York, Richmond, Virginia, and Taipei, Taiwan. At Swarthmore, she enjoys dancing with Rhythm N’ Motion, playing in various chamber ensembles and orchestras, and exploring Philadelphia’s coffee shops.
 </div>
 
 <p style='clear:both;'></p>
