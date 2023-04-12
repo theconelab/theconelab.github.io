@@ -16,7 +16,8 @@ Swarthmore College
 [Elizabeth&nbsp;Rosenthal](#elizabeth-rosenthal)
 
 ### Student researchers
-[John&nbsp;P.&nbsp;Duarte](#john-p-duarte)&nbsp;| 
+[Sumin&nbsp;Byun](#sumin-byun)&nbsp;| 
+[J.P.&nbsp;Duarte](#jp-duarte)&nbsp;| 
 [Rebecca&nbsp;Flack](#rebecca-flack)&nbsp;| 
 [Kate&nbsp;Hart](#kate-hart)&nbsp;| 
 [Gaby&nbsp;Ma](#gaby-ma)&nbsp;| 
@@ -51,6 +52,13 @@ State Key Laboratory for Cognitive Neuroscience and Learning @ Beijing Normal Un
 
 <p style='clear:both;'></p>
 
+### Sumin Byun
+<div style="clear:both;">
+<img align="left" src="" alt="photograph of Sumin Byun coming soon!" style="margin: 5px 15px 5px 0px; width:200px;"><em>more info soon!</em>
+</div>
+
+<p style='clear:both;'></p>
+
 ### Ricky WonJoon Choi
 <div style="clear:both;">
 <img align="left" src="images/ricky.jpg" alt="photograph of Ricky Choi on a hillside in the forest" style="margin: 5px 15px 5px 0px; width:200px;">Ricky Choi (he/him) is a Psychology and Political Science double major in the class of 2023. He is interested in causal reasoning, language acquisition, and the application of computational models to simulate and better understand those topics. After graduating, Ricky hopes to pursue a graduate degree in developmental psychology and continue investigating causal and language development. In his free time, he enjoys cooking and lounging with his two cats, Kyky and Kenma.
@@ -73,9 +81,9 @@ playing video games, and eating Korean fried chicken.
 
 <p style='clear:both;'></p>
 
-### John P. Duarte
+### JP Duarte
 <div style="clear:both;">
-<img align="left" src="images/john.png" alt="photograph of John Duarte holding a tray of cookies, fresh from the oven" style="margin: 5px 15px 5px 0px; width:200px;">John Duarte is a Psychology major in the class of 2023, and he is interested in statistical learning and language acquisition. John is a foilist on the Swarthmore Club Fencing Team, an active member of Swarthmore's Psi Phi (Not a Frat) club, and enjoyer of LARP. He enjoys board games, hiking, musical theater, and creative writing.
+<img align="left" src="images/john.png" alt="photograph of JP Duarte holding a tray of cookies, fresh from the oven" style="margin: 5px 15px 5px 0px; width:200px;">JP Duarte is a Psychology major in the class of 2023, and he is interested in statistical learning and language acquisition. John is a foilist on the Swarthmore Club Fencing Team, an active member of Swarthmore's Psi Phi (Not a Frat) club, and enjoyer of LARP. He enjoys board games, hiking, musical theater, and creative writing.
 </div>
 
 <p style='clear:both;'></p>
