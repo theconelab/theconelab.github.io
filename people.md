@@ -83,7 +83,7 @@ playing video games, and eating Korean fried chicken.
 
 ### JP Duarte
 <div style="clear:both;">
-<img align="left" src="images/john.png" alt="photograph of JP Duarte holding a tray of cookies, fresh from the oven" style="margin: 5px 15px 5px 0px; width:200px;">JP Duarte is a Psychology major in the class of 2023, and he is interested in statistical learning and language acquisition. John is a foilist on the Swarthmore Club Fencing Team, an active member of Swarthmore's Psi Phi (Not a Frat) club, and enjoyer of LARP. He enjoys board games, hiking, musical theater, and creative writing.
+<img align="left" src="images/john.png" alt="photograph of JP Duarte holding a tray of cookies, fresh from the oven" style="margin: 5px 15px 5px 0px; width:200px;">JP Duarte is a Psychology major in the class of 2023, and he is interested in statistical learning and language acquisition. JP is a foilist on the Swarthmore Club Fencing Team, an active member of Swarthmore's Psi Phi (Not a Frat) club, and enjoyer of LARP. He enjoys board games, hiking, musical theater, and creative writing.
 </div>
 
 <p style='clear:both;'></p>
