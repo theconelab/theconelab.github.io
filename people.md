@@ -20,6 +20,7 @@ Swarthmore College
 [Rebecca&nbsp;Flack](#rebecca-flack)&nbsp;| 
 [Kate&nbsp;Hart](#kate-hart)&nbsp;| 
 [Gaby&nbsp;Ma](#gaby-ma)&nbsp;| 
+[Anna&nbsp;Miller](#anna-miller)&nbsp;| 
 [Madeleine&nbsp;Wang](#madeleine-wang)&nbsp;| 
 [Ping&nbsp;Wen](#ping-wen)&nbsp;| 
 [Christopher&nbsp;Haochen&nbsp;Zhao](#christopher-haochen-zhao)
@@ -96,6 +97,13 @@ playing video games, and eating Korean fried chicken.
 ### Gaby Ma
 <div style="clear:both;">
 <img align="left" src="images/gaby.png" alt="photograph of Gaby Ma in front of white wall" style="margin: 5px 15px 5px 0px; width:200px;">Gaby Ma is currently a sophomore ('23) from California. She is a psychology major and part of the Swarthmore swim team. In her free time, she enjoys spending time with family and friends, hiking with her dog, and cooking.
+</div>
+
+<p style='clear:both;'></p>
+
+### Anna Miller
+<div style="clear:both;">
+<img align="left" src="images/anna.jpeg" alt="photograph of Anna Miller on a mountain" style="margin: 5px 15px 5px 0px; width:200px;">Anna Miller (she/her) is a Neuroscience and Global Health (Global Studies) double major in the class of 2024 from Seattle, Washington. She is interested in international health, particularly in how malnutrition affects cognitive function and development, as well as how health decisions are made. Anna is on the Swarthmore women's tennis team and enjoys painting, traveling and mountain climbing. 
 </div>
 
 <p style='clear:both;'></p>
