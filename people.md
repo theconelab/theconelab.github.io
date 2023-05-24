@@ -9,26 +9,26 @@ Visiting Assistant Professor in Psychology<br>
 Swarthmore College
 
 ### Senior thesis researchers
-[David&nbsp;Akinsooto](#david-akinsooto)&nbsp;| 
-[Ricky&nbsp;WonJoon&nbsp;Choi](#ricky-wonjoon-choi)&nbsp;| 
+[Anna&nbsp;Miller](#anna-miller)&nbsp;| 
 [Mai&nbsp;Miura](#mai-miura)&nbsp;| 
-[Selena&nbsp;She](#selena-she)&nbsp;| 
-[Elizabeth&nbsp;Rosenthal](#elizabeth-rosenthal)
 
 ### Student researchers
 [Sumin&nbsp;Byun](#sumin-byun)&nbsp;| 
-[J.P.&nbsp;Duarte](#jp-duarte)&nbsp;| 
-[Rebecca&nbsp;Flack](#rebecca-flack)&nbsp;| 
-[Kate&nbsp;Hart](#kate-hart)&nbsp;| 
-[Gaby&nbsp;Ma](#gaby-ma)&nbsp;| 
-[Anna&nbsp;Miller](#anna-miller)&nbsp;| 
 [Madeleine&nbsp;Wang](#madeleine-wang)&nbsp;| 
-[Ping&nbsp;Wen](#ping-wen)&nbsp;| 
 [Christopher&nbsp;Haochen&nbsp;Zhao](#christopher-haochen-zhao)
 
 ### Lab Alumni
+[David&nbsp;Akinsooto](#david-akinsooto)&nbsp;| 
+[Ricky&nbsp;WonJoon&nbsp;Choi](#ricky-wonjoon-choi)&nbsp;| 
 [Jino&nbsp;Chough](#jino-chough)&nbsp;| 
-[Jonah&nbsp;Covitz](#jonah-covitz)
+[Jonah&nbsp;Covitz](#jonah-covitz)&nbsp;| 
+[Fen&nbsp;Duarte](#fen-duarte)&nbsp;| 
+[Rebecca&nbsp;Flack](#rebecca-flack)&nbsp;| 
+[Kate&nbsp;Hart](#kate-hart)&nbsp;| 
+[Gaby&nbsp;Ma](#gaby-ma)&nbsp;| 
+[Selena&nbsp;She](#selena-she)&nbsp;| 
+[Elizabeth&nbsp;Rosenthal](#elizabeth-rosenthal)&nbsp;| 
+[Ping&nbsp;Wen](#ping-wen)
 
 ### Collaborating labs
 [Bayet Lab @ American Univ.](https://www.bayetlab.com/)&nbsp;| 
@@ -81,9 +81,9 @@ playing video games, and eating Korean fried chicken.
 
 <p style='clear:both;'></p>
 
-### JP Duarte
+### Fen Duarte
 <div style="clear:both;">
-<img align="left" src="images/john.png" alt="photograph of JP Duarte holding a tray of cookies, fresh from the oven" style="margin: 5px 15px 5px 0px; width:200px;">JP Duarte is a Psychology major in the class of 2023, and he is interested in statistical learning and language acquisition. JP is a foilist on the Swarthmore Club Fencing Team, an active member of Swarthmore's Psi Phi (Not a Frat) club, and enjoyer of LARP. He enjoys board games, hiking, musical theater, and creative writing.
+<img align="left" src="images/john.png" alt="photograph of Fen Duarte holding a tray of cookies, fresh from the oven" style="margin: 5px 15px 5px 0px; width:200px;">Fen Duarte is a Psychology major in the class of 2023, interested in statistical learning and language acquisition. Fen is a foilist on the Swarthmore Club Fencing Team, an active member of Swarthmore's Psi Phi (Not a Frat) club, and enjoyer of LARP. Fen enjoys board games, hiking, musical theater, and creative writing.
 </div>
 
 <p style='clear:both;'></p>
