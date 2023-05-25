@@ -10,7 +10,7 @@ Swarthmore College
 
 ### Senior thesis researchers
 [Anna&nbsp;Miller](#anna-miller)&nbsp;| 
-[Mai&nbsp;Miura](#mai-miura)&nbsp;| 
+[Mai&nbsp;Miura](#mai-miura) 
 
 ### Student researchers
 [Sumin&nbsp;Byun](#sumin-byun)&nbsp;| 
