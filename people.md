@@ -54,7 +54,7 @@ State Key Laboratory for Cognitive Neuroscience and Learning @ Beijing Normal Un
 
 ### Sumin Byun
 <div style="clear:both;">
-<img align="left" src="" alt="photograph of Sumin Byun coming soon!" style="margin: 5px 15px 5px 0px; width:200px;"><em>more info soon!</em>
+<img align="left" src="images/sumin.jpg" alt="photograph of Sumin Byun standing in front of a white background" style="margin: 5px 15px 5px 0px; width:200px;"><em>more info soon!</em>
 </div>
 
 <p style='clear:both;'></p>
