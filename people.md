@@ -54,7 +54,7 @@ State Key Laboratory for Cognitive Neuroscience and Learning @ Beijing Normal Un
 
 ### Sumin Byun
 <div style="clear:both;">
-<img align="left" src="images/sumin.jpg" alt="photograph of Sumin Byun standing in front of a white background" style="margin: 5px 15px 5px 0px; width:200px;"><em>more info soon!</em>
+<img align="left" src="images/sumin.png" alt="photograph of Sumin Byun feeding a carrot to some deer" style="margin: 5px 15px 5px 0px; width:200px;">Sumin is a Neuroscience and Statistics double major (class of 2025) from South Korea. After graduating, she hopes to pursue a graduate degree in Neuroscience/Statistics. Sumin loves to dance (choreography and ballet) and likes to read in her free time.
 </div>
 
 <p style='clear:both;'></p>
