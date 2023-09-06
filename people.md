@@ -14,8 +14,7 @@ Swarthmore College
 
 ### Student researchers
 [Sumin&nbsp;Byun](#sumin-byun)&nbsp;| 
-[Madeleine&nbsp;Wang](#madeleine-wang)&nbsp;| 
-[Christopher&nbsp;Haochen&nbsp;Zhao](#christopher-haochen-zhao)
+[Madeleine&nbsp;Wang](#madeleine-wang)&nbsp;
 
 ### Lab Alumni
 [David&nbsp;Akinsooto](#david-akinsooto)&nbsp;| 
@@ -28,7 +27,8 @@ Swarthmore College
 [Gaby&nbsp;Ma](#gaby-ma)&nbsp;| 
 [Selena&nbsp;She](#selena-she)&nbsp;| 
 [Elizabeth&nbsp;Rosenthal](#elizabeth-rosenthal)&nbsp;| 
-[Ping&nbsp;Wen](#ping-wen)
+[Ping&nbsp;Wen](#ping-wen)&nbsp;| 
+[Christopher&nbsp;Haochen&nbsp;Zhao](#christopher-haochen-zhao)
 
 ### Collaborating labs
 [Bayet Lab @ American Univ.](https://www.bayetlab.com/)&nbsp;| 
