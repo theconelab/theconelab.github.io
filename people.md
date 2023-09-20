@@ -14,7 +14,8 @@ Swarthmore College
 
 ### Student researchers
 [Sumin&nbsp;Byun](#sumin-byun)&nbsp;| 
-[Madeleine&nbsp;Wang](#madeleine-wang)&nbsp;
+[Madeleine&nbsp;Wang](#madeleine-wang)&nbsp;|
+Vic Wen
 
 ### Lab Alumni
 [David&nbsp;Akinsooto](#david-akinsooto)&nbsp;| 
