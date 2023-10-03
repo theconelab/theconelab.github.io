@@ -15,7 +15,7 @@ Swarthmore College
 ### Student researchers
 [Sumin&nbsp;Byun](#sumin-byun)&nbsp;| 
 [Madeleine&nbsp;Wang](#madeleine-wang)&nbsp;|
-Vic Wen
+[Vic&nbsp;Wen](#vic-wen)
 
 ### Lab Alumni
 [David&nbsp;Akinsooto](#david-akinsooto)&nbsp;| 
@@ -141,6 +141,13 @@ playing video games, and eating Korean fried chicken.
 ### Madeleine Wang
 <div style="clear:both;">
 <img align="left" src="images/madeleine.jpg" alt="photograph of Madeleine" style="margin: 5px 15px 5px 0px; width:200px;">Madeleine Wang is a prospective Neuroscience and Statistics major in the class of 2026. Madeleine is from Long Island, New York, but has also lived in Ithaca, New York, Richmond, Virginia, and Taipei, Taiwan. At Swarthmore, she enjoys dancing with Rhythm N’ Motion, playing in various chamber ensembles and orchestras, and exploring Philadelphia’s coffee shops.
+</div>
+
+<p style='clear:both;'></p>
+
+### Vic Wen
+<div style="clear:both;">
+<img align="left" src="images/vic.jpg" alt="photograph of Vic Wen standing on a sidewalk with tall green shrubs" style="margin: 5px 15px 5px 0px; width:200px;">Vic Wen '26 (they/them) is a prospective psychology and linguistics double major. They’re interested in how language influences the mind and the brain, and after college they hope to pursue a graduate degree in psycholinguistics. In their free time, Vic enjoys learning languages, playing and writing music, and hanging out with their cats.
 </div>
 
 <p style='clear:both;'></p>
