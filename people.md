@@ -14,6 +14,7 @@ Swarthmore College
 
 ### Student researchers
 [Sumin&nbsp;Byun](#sumin-byun)&nbsp;| 
+[Dorian&nbsp;Ferguson](#dorian-ferguson)&nbsp;| 
 [Madeleine&nbsp;Wang](#madeleine-wang)&nbsp;|
 [Vic&nbsp;Wen](#vic-wen)
 
@@ -85,6 +86,13 @@ playing video games, and eating Korean fried chicken.
 ### Fen Duarte
 <div style="clear:both;">
 <img align="left" src="images/john.png" alt="photograph of Fen Duarte holding a tray of cookies, fresh from the oven" style="margin: 5px 15px 5px 0px; width:200px;">Fen Duarte is a Psychology major in the class of 2023, interested in statistical learning and language acquisition. Fen is a foilist on the Swarthmore Club Fencing Team, an active member of Swarthmore's Psi Phi (Not a Frat) club, and enjoyer of LARP. Fen enjoys board games, hiking, musical theater, and creative writing.
+</div>
+
+<p style='clear:both;'></p>
+
+### Dorian Ferguson
+<div style="clear:both;">
+<img align="left" src="images/dorian.jpg" alt="photograph of Dorian Ferguson with trees in the background" style="margin: 5px 15px 5px 0px; width:200px;">Dorian (he/they) is a prospective psychology and Russian major in the class of 2026. They are interested in the potential overlaps between the two subjects, as well as clinical psychology. In his free time, Dorian loves to read, spend time with friends, and learning French. 
 </div>
 
 <p style='clear:both;'></p>
