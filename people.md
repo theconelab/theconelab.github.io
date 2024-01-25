@@ -14,7 +14,7 @@ Swarthmore College
 
 ### Student researchers
 [Sumin&nbsp;Byun](#sumin-byun)&nbsp;| 
-[Dorian&nbsp;Ferguson](#dorian-ferguson)&nbsp;| 
+[Adrian&nbsp;Ferguson](#adrian-ferguson)&nbsp;| 
 [Madeleine&nbsp;Wang](#madeleine-wang)&nbsp;|
 [Vic&nbsp;Wen](#vic-wen)
 
@@ -90,9 +90,9 @@ playing video games, and eating Korean fried chicken.
 
 <p style='clear:both;'></p>
 
-### Dorian Ferguson
+### Adrian Ferguson
 <div style="clear:both;">
-<img align="left" src="images/dorian.jpg" alt="photograph of Dorian Ferguson with trees in the background" style="margin: 5px 15px 5px 0px; width:200px;">Dorian (he/they) is a prospective psychology and Russian major in the class of 2026. They are interested in the potential overlaps between the two subjects, as well as clinical psychology. In his free time, Dorian loves to read, spend time with friends, and learning French. 
+<img align="left" src="images/adrian.jpg" alt="photograph of Adrian Ferguson with trees in the background" style="margin: 5px 15px 5px 0px; width:200px;">Adrian (he/they) is a prospective psychology and Russian major in the class of 2026. They are interested in the potential overlaps between the two subjects, as well as clinical psychology. In his free time, Adrian loves to read, spend time with friends, and learning French. 
 </div>
 
 <p style='clear:both;'></p>
