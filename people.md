@@ -14,6 +14,7 @@ Swarthmore College
 
 ### Student researchers
 [Sumin&nbsp;Byun](#sumin-byun)&nbsp;| 
+[Colin&nbsp;DeLaney](#colin-delaney)&nbsp;| 
 [Adrian&nbsp;Ferguson](#adrian-ferguson)&nbsp;| 
 [Madeleine&nbsp;Wang](#madeleine-wang)&nbsp;|
 [Vic&nbsp;Wen](#vic-wen)
@@ -79,6 +80,13 @@ playing video games, and eating Korean fried chicken.
 ### Jonah Covitz
 <div style="clear:both;">
 <img align="left" src="images/jonah.png" alt="photograph of Jonah Covitz riding a bicycle in front of the Golden Gate bridge" style="margin: 5px 15px 5px 0px; width:200px;">Jonah Covitz is a Psychology and Economics double major in the class of 2022.  He is interested in decision science and how to apply cognitive neuroscience of language approaches to this field.  Jonah is a long jumper on the men's track and field team and plays saxophone in the school jazz ensemble.
+</div>
+
+<p style='clear:both;'></p>
+
+### Colin DeLaney
+<div style="clear:both;">
+<img align="left" src="images/colin.jpg" alt="photograph of Colin Delaney standing in front of a colorful flower garden" style="margin: 5px 15px 5px 0px; width:200px;">Colin DeLaney is a neuroscience major in the class of 2025 from Syracuse, NY. He is a premedical student and competes for the college's cross country and track & field teams. He is interested in employing neuroimaging techniques to study developmental disorders. Colin enjoys singing and spending time with his pets (2 cats, 1 dog, 1 horse) in his free time. 
 </div>
 
 <p style='clear:both;'></p>
