@@ -16,6 +16,7 @@ Swarthmore College
 [Sumin&nbsp;Byun](#sumin-byun)&nbsp;| 
 [Colin&nbsp;DeLaney](#colin-delaney)&nbsp;| 
 [Adrian&nbsp;Ferguson](#adrian-ferguson)&nbsp;| 
+[Shinz&nbsp;Jo&nbsp;Ooi](#shinz-jo-ooi)&nbsp;| 
 [Madeleine&nbsp;Wang](#madeleine-wang)&nbsp;|
 [Vic&nbsp;Wen](#vic-wen)
 
@@ -136,6 +137,13 @@ playing video games, and eating Korean fried chicken.
 ### Mai Miura
 <div style="clear:both;">
 <img align="left" src="images/mai.jpg" alt="photograph of Mai standing in front of a white wall" style="margin: 5px 15px 5px 0px; width:200px;">Mai Miura is a December 2023 finisher majoring in Psychology and minoring in Gender and Sexuality Studies. She is from Tokyo, Japan and is interested in bilingual language processing. In her free time, Mai enjoys listening to music and playing volleyball.
+</div>
+
+<p style='clear:both;'></p>
+
+### Shinz Jo Ooi
+<div style="clear:both;">
+<img align="left" src="images/jo.jpg" alt="photograph of Jo standing in front of a green tree and a gray stone building" style="margin: 5px 15px 5px 0px; width:200px;">Jo (Shinz Jo Ooi) is a prospective Computer Science and Linguistics major in the class of 2027. She is from Penang, Malaysia, and is involved in the Phoenix campus newspaper. Outside of Swarthmore, she enjoys exploring new food spots, reading fiction and going to the beach. 
 </div>
 
 <p style='clear:both;'></p>
